@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zydM2vZ/+4fqqkf/uQTNTcSFv3mWQQBANpX6yblQ/DEsHcMoDb9gWu+5d0ZzLLmGmMazkeDPya+ecw2TZKsIZg==",
+  "dgSpecHash": "CHm/iPQlhu0zDZfiVl32KgLOc+WB5ZB79M/ylJn2dRilk6eMgSlIX6yNX0n0vJeL3thYn9/mhHett/NrNQUOgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\PROYECTO_FINAL\\FinalProject\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xioma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\xioma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

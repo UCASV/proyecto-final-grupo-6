@@ -5766,11 +5766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\PROYECTO_FINAL\\FinalProject\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\PROYECTO_FINAL\\FinalProject\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\xioma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\PROYECTO_FINAL\\FinalProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xioma\\AppData\\Roaming\\NuGet\\NuGet.Config"

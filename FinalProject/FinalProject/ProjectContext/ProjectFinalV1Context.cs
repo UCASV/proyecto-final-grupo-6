@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace FinalProject.ProjectContext
 {
-    public partial class ProyectoFinalContext : DbContext
+    public partial class ProjectFinalV1Context : DbContext
     {
-        public ProyectoFinalContext()
+        public ProjectFinalV1Context()
         {
         }
 
-        public ProyectoFinalContext(DbContextOptions<ProyectoFinalContext> options)
+        public ProjectFinalV1Context(DbContextOptions<ProjectFinalV1Context> options)
             : base(options)
         {
         }
@@ -34,7 +34,7 @@ namespace FinalProject.ProjectContext
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=localhost;DataBase=ProyectoFinal;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=localhost;DataBase=ProjectFinalV1;Trusted_Connection=True;");
             }
         }
 
@@ -109,7 +109,7 @@ namespace FinalProject.ProjectContext
             modelBuilder.Entity<Citizen>(entity =>
             {
                 entity.HasKey(e => e.Dui)
-                    .HasName("PK__CITIZEN__D876F1BE85F71030");
+                    .HasName("PK__CITIZEN__D876F1BE3F375366");
 
                 entity.ToTable("CITIZEN");
 
@@ -272,14 +272,6 @@ namespace FinalProject.ProjectContext
                 entity.Property(e => e.DatetimeVaccine)
                     .HasColumnType("datetime")
                     .HasColumnName("datetime_vaccine");
-
-                entity.Property(e => e.IdAppointment).HasColumnName("id_appointment");
-
-                entity.HasOne(d => d.IdAppointmentNavigation)
-                    .WithMany(p => p.ProcessVaccinations)
-                    .HasForeignKey(d => d.IdAppointment)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__PROCESS_V__id_ap__49C3F6B7");
             });
 
             modelBuilder.Entity<Processxcitizen>(entity =>
@@ -299,13 +291,13 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Processxcitizens)
                     .HasForeignKey(d => d.IdCitizen)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__PROCESSXC__id_ci__4AB81AF0");
+                    .HasConstraintName("FK__PROCESSXC__id_ci__49C3F6B7");
 
                 entity.HasOne(d => d.IdProcessNavigation)
                     .WithMany(p => p.Processxcitizens)
                     .HasForeignKey(d => d.IdProcess)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__PROCESSXC__id_pr__4BAC3F29");
+                    .HasConstraintName("FK__PROCESSXC__id_pr__4AB81AF0");
             });
 
             modelBuilder.Entity<Session>(entity =>
