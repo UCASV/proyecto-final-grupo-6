@@ -113,3 +113,5 @@ C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\Final
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources

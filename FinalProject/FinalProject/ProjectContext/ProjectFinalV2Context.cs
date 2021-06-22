@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace FinalProject.ProjectContext
 {
-    public partial class ProjectFinalV1Context : DbContext
+    public partial class ProjectFinalV2Context : DbContext
     {
-        public ProjectFinalV1Context()
+        public ProjectFinalV2Context()
         {
         }
 
-        public ProjectFinalV1Context(DbContextOptions<ProjectFinalV1Context> options)
+        public ProjectFinalV2Context(DbContextOptions<ProjectFinalV2Context> options)
             : base(options)
         {
         }
@@ -34,7 +34,7 @@ namespace FinalProject.ProjectContext
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=localhost;DataBase=ProjectFinalV1;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=localhost;DataBase=ProjectFinalV2;Trusted_Connection=True;");
             }
         }
 
@@ -109,7 +109,7 @@ namespace FinalProject.ProjectContext
             modelBuilder.Entity<Citizen>(entity =>
             {
                 entity.HasKey(e => e.Dui)
-                    .HasName("PK__CITIZEN__D876F1BE3F375366");
+                    .HasName("PK__CITIZEN__D876F1BE75B60351");
 
                 entity.ToTable("CITIZEN");
 
@@ -257,10 +257,6 @@ namespace FinalProject.ProjectContext
 
                 entity.Property(e => e.Id).HasColumnName("id");
 
-                entity.Property(e => e.DatetimeEffect)
-                    .HasColumnType("datetime")
-                    .HasColumnName("datetime_effect");
-
                 entity.Property(e => e.DatetimeInitiation)
                     .HasColumnType("datetime")
                     .HasColumnName("datetime_initiation");
@@ -272,6 +268,8 @@ namespace FinalProject.ProjectContext
                 entity.Property(e => e.DatetimeVaccine)
                     .HasColumnType("datetime")
                     .HasColumnName("datetime_vaccine");
+
+                entity.Property(e => e.TimeEffect).HasColumnName("time_effect");
             });
 
             modelBuilder.Entity<Processxcitizen>(entity =>

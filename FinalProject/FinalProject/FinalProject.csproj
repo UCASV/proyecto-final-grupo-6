@@ -26,6 +26,12 @@
       <Compile Update="View\fmrappointment.cs">
         <SubType>Form</SubType>
       </Compile>
+      <Compile Update="View\fmrinformation.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="View\fmrsideeffects.cs">
+        <SubType>Form</SubType>
+      </Compile>
     </ItemGroup>
 
     <ItemGroup>
