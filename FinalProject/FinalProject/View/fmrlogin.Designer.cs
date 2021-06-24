@@ -152,6 +152,7 @@ namespace FinalProject
             this.btnLogin.TabIndex = 7;
             this.btnLogin.Text = "Ingresar";
             this.btnLogin.UseVisualStyleBackColor = false;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // fmrlogin
             // 

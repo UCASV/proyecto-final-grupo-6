@@ -37,17 +37,17 @@ namespace FinalProject
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.dateTimePicker4 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker3 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.dtpVaccine = new System.Windows.Forms.DateTimePicker();
+            this.txtminutes = new System.Windows.Forms.TextBox();
+            this.txtHour = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.button1 = new System.Windows.Forms.Button();
-            this.btnCncelar = new System.Windows.Forms.Button();
+            this.txtDay = new System.Windows.Forms.TextBox();
+            this.dtpStar = new System.Windows.Forms.DateTimePicker();
+            this.btnOk = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize) (this.pictureBox1)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -101,16 +101,16 @@ namespace FinalProject
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Controls.Add(this.dateTimePicker4, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.dateTimePicker3, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.dateTimePicker2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.dtpVaccine, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.txtminutes, 1, 4);
+            this.tableLayoutPanel1.Controls.Add(this.txtHour, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.label4, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label5, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.label8, 0, 3);
             this.tableLayoutPanel1.Controls.Add(this.label7, 0, 4);
-            this.tableLayoutPanel1.Controls.Add(this.textBox1, 1, 4);
-            this.tableLayoutPanel1.Controls.Add(this.dateTimePicker1, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.txtDay, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.dtpStar, 1, 2);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(36, 126);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
@@ -124,34 +124,31 @@ namespace FinalProject
             this.tableLayoutPanel1.Size = new System.Drawing.Size(332, 266);
             this.tableLayoutPanel1.TabIndex = 4;
             // 
-            // dateTimePicker4
+            // dtpVaccine
             // 
-            this.dateTimePicker4.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.dateTimePicker4.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dateTimePicker4.Location = new System.Drawing.Point(169, 122);
-            this.dateTimePicker4.Name = "dateTimePicker4";
-            this.dateTimePicker4.ShowUpDown = true;
-            this.dateTimePicker4.Size = new System.Drawing.Size(160, 20);
-            this.dateTimePicker4.TabIndex = 13;
+            this.dtpVaccine.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.dtpVaccine.Location = new System.Drawing.Point(169, 162);
+            this.dtpVaccine.Name = "dtpVaccine";
+            this.dtpVaccine.ShowUpDown = true;
+            this.dtpVaccine.Size = new System.Drawing.Size(154, 20);
+            this.dtpVaccine.TabIndex = 15;
             // 
-            // dateTimePicker3
+            // txtminutes
             // 
-            this.dateTimePicker3.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.dateTimePicker3.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dateTimePicker3.Location = new System.Drawing.Point(169, 69);
-            this.dateTimePicker3.Name = "dateTimePicker3";
-            this.dateTimePicker3.ShowUpDown = true;
-            this.dateTimePicker3.Size = new System.Drawing.Size(160, 20);
-            this.dateTimePicker3.TabIndex = 12;
+            this.txtminutes.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtminutes.Location = new System.Drawing.Point(169, 229);
+            this.txtminutes.Name = "txtminutes";
+            this.txtminutes.Size = new System.Drawing.Size(160, 20);
+            this.txtminutes.TabIndex = 13;
             // 
-            // dateTimePicker2
+            // txtHour
             // 
-            this.dateTimePicker2.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimePicker2.Location = new System.Drawing.Point(169, 16);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(160, 20);
-            this.dateTimePicker2.TabIndex = 11;
+            this.txtHour.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtHour.Location = new System.Drawing.Point(169, 69);
+            this.txtHour.Name = "txtHour";
+            this.txtHour.ReadOnly = true;
+            this.txtHour.Size = new System.Drawing.Size(160, 20);
+            this.txtHour.TabIndex = 10;
             // 
             // label4
             // 
@@ -201,45 +198,46 @@ namespace FinalProject
             this.label7.Text = "Minutos con efectos secundarios";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // textBox1
+            // txtDay
             // 
-            this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox1.Location = new System.Drawing.Point(169, 229);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(160, 20);
-            this.textBox1.TabIndex = 9;
+            this.txtDay.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtDay.Location = new System.Drawing.Point(169, 16);
+            this.txtDay.Name = "txtDay";
+            this.txtDay.ReadOnly = true;
+            this.txtDay.Size = new System.Drawing.Size(160, 20);
+            this.txtDay.TabIndex = 9;
             // 
-            // dateTimePicker1
+            // dtpStar
             // 
-            this.dateTimePicker1.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dateTimePicker1.Location = new System.Drawing.Point(169, 175);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.ShowUpDown = true;
-            this.dateTimePicker1.Size = new System.Drawing.Size(160, 20);
-            this.dateTimePicker1.TabIndex = 10;
+            this.dtpStar.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.dtpStar.Location = new System.Drawing.Point(169, 109);
+            this.dtpStar.Name = "dtpStar";
+            this.dtpStar.ShowUpDown = true;
+            this.dtpStar.Size = new System.Drawing.Size(154, 20);
+            this.dtpStar.TabIndex = 14;
             // 
-            // button1
+            // btnOk
             // 
-            this.button1.BackColor = System.Drawing.Color.LightBlue;
-            this.button1.Font = new System.Drawing.Font("Source Sans Pro Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button1.Location = new System.Drawing.Point(68, 414);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(115, 27);
-            this.button1.TabIndex = 10;
-            this.button1.Text = "Aceptar";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnOk.BackColor = System.Drawing.Color.LightBlue;
+            this.btnOk.Font = new System.Drawing.Font("Source Sans Pro Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnOk.Location = new System.Drawing.Point(84, 414);
+            this.btnOk.Name = "btnOk";
+            this.btnOk.Size = new System.Drawing.Size(115, 27);
+            this.btnOk.TabIndex = 10;
+            this.btnOk.Text = "Aceptar";
+            this.btnOk.UseVisualStyleBackColor = false;
+            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
             // 
-            // btnCncelar
+            // btnCancel
             // 
-            this.btnCncelar.BackColor = System.Drawing.Color.LightBlue;
-            this.btnCncelar.Font = new System.Drawing.Font("Source Sans Pro Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnCncelar.Location = new System.Drawing.Point(233, 414);
-            this.btnCncelar.Name = "btnCncelar";
-            this.btnCncelar.Size = new System.Drawing.Size(115, 27);
-            this.btnCncelar.TabIndex = 11;
-            this.btnCncelar.Text = "Salir";
-            this.btnCncelar.UseVisualStyleBackColor = false;
+            this.btnCancel.BackColor = System.Drawing.Color.LightBlue;
+            this.btnCancel.Font = new System.Drawing.Font("Source Sans Pro Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnCancel.Location = new System.Drawing.Point(224, 414);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(115, 27);
+            this.btnCancel.TabIndex = 11;
+            this.btnCancel.Text = "Salir";
+            this.btnCancel.UseVisualStyleBackColor = false;
             // 
             // fmrsideeffects
             // 
@@ -247,8 +245,8 @@ namespace FinalProject
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.ClientSize = new System.Drawing.Size(397, 453);
-            this.Controls.Add(this.btnCncelar);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnOk);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
@@ -256,23 +254,29 @@ namespace FinalProject
             this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "fmrsideeffects";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Datos Preliminares ";
+            this.Load += new System.EventHandler(this.fmrsideeffects_Load);
             ((System.ComponentModel.ISupportInitialize) (this.pictureBox1)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
         }
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btnCncelar;
+        private System.Windows.Forms.Button btnOk;
+        private System.Windows.Forms.Button btnCancel;
 
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.DateTimePicker dateTimePicker3;
-        private System.Windows.Forms.DateTimePicker dateTimePicker4;
+        private System.Windows.Forms.DateTimePicker dtpStar;
+        private System.Windows.Forms.DateTimePicker dtpVaccine;
 
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.TextBox txtminutes;
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtHour;
+
+        private System.Windows.Forms.TextBox txtDay;
+
+        private System.Windows.Forms.Button btnAc;
+        private System.Windows.Forms.Button btnCncel;
 
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;

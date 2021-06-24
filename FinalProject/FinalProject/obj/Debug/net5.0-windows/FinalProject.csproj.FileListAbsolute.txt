@@ -115,3 +115,5 @@ C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\Final
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
 C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll

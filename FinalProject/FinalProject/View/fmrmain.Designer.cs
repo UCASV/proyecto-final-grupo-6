@@ -31,14 +31,14 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fmrmain));
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.sspUser = new System.Windows.Forms.ToolStripStatusLabel();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnnewUser = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnAppoint = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button3 = new System.Windows.Forms.Button();
@@ -51,21 +51,22 @@
             // 
             // statusStrip1
             // 
-            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.toolStripStatusLabel1});
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.sspUser});
             this.statusStrip1.Location = new System.Drawing.Point(0, 336);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(626, 24);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
-            // toolStripStatusLabel1
+            // sspUser
             // 
-            this.toolStripStatusLabel1.BackColor = System.Drawing.Color.White;
-            this.toolStripStatusLabel1.Font = new System.Drawing.Font("Source Sans Pro Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.toolStripStatusLabel1.ForeColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
-            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(72, 19);
-            this.toolStripStatusLabel1.Text = "xxxx XXXX";
+            this.sspUser.BackColor = System.Drawing.Color.White;
+            this.sspUser.Font = new System.Drawing.Font("Source Sans Pro Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.sspUser.ForeColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
+            this.sspUser.Name = "sspUser";
+            this.sspUser.Size = new System.Drawing.Size(72, 19);
+            this.sspUser.Text = "xxxx XXXX";
+            
             // 
             // label1
             // 
@@ -109,16 +110,17 @@
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
-            // button1
+            // btnnewUser
             // 
-            this.button1.BackColor = System.Drawing.Color.LightBlue;
-            this.button1.Font = new System.Drawing.Font("Source Sans Pro Semibold", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button1.Location = new System.Drawing.Point(59, 277);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(142, 29);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Nuevo Usuario";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnnewUser.BackColor = System.Drawing.Color.LightBlue;
+            this.btnnewUser.Font = new System.Drawing.Font("Source Sans Pro Semibold", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnnewUser.Location = new System.Drawing.Point(59, 277);
+            this.btnnewUser.Name = "btnnewUser";
+            this.btnnewUser.Size = new System.Drawing.Size(142, 29);
+            this.btnnewUser.TabIndex = 5;
+            this.btnnewUser.Text = "Nuevo Usuario";
+            this.btnnewUser.UseVisualStyleBackColor = false;
+            this.btnnewUser.Click += new System.EventHandler(this.btnnewUser_Click);
             // 
             // pictureBox2
             // 
@@ -130,16 +132,17 @@
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
             // 
-            // button2
+            // btnAppoint
             // 
-            this.button2.BackColor = System.Drawing.Color.LightBlue;
-            this.button2.Font = new System.Drawing.Font("Source Sans Pro Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button2.Location = new System.Drawing.Point(261, 277);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(135, 29);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "Seguimiento de cita";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnAppoint.BackColor = System.Drawing.Color.LightBlue;
+            this.btnAppoint.Font = new System.Drawing.Font("Source Sans Pro Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnAppoint.Location = new System.Drawing.Point(261, 277);
+            this.btnAppoint.Name = "btnAppoint";
+            this.btnAppoint.Size = new System.Drawing.Size(135, 29);
+            this.btnAppoint.TabIndex = 8;
+            this.btnAppoint.Text = "Seguimiento de cita";
+            this.btnAppoint.UseVisualStyleBackColor = false;
+            this.btnAppoint.Click += new System.EventHandler(this.btnAppoint_Click);
             // 
             // pictureBox3
             // 
@@ -181,9 +184,9 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnAppoint);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnnewUser);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -193,7 +196,9 @@
             this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "fmrmain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu Principal";
+            this.Load += new System.EventHandler(this.fmrmain_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize) (this.pictureBox1)).EndInit();
@@ -203,6 +208,12 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.ToolStripStatusLabel sspUser;
+
+        private System.Windows.Forms.Button btnnewUser;
+
+        private System.Windows.Forms.Button btnAppoint;
 
         private System.Windows.Forms.Button button3;
 

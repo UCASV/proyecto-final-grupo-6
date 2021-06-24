@@ -7,6 +7,7 @@ namespace FinalProject.ProjectContext
 {
     public partial class ProcessVaccination
     {
+        
         public ProcessVaccination()
         {
             Processxcitizens = new HashSet<Processxcitizen>();
