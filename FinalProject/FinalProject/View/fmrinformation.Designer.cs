@@ -91,7 +91,7 @@ namespace FinalProject
             this.tableLayoutPanel2.Controls.Add(this.label4, 0, 3);
             this.tableLayoutPanel2.Controls.Add(this.txtduishow, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.txtdate, 1, 1);
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(30, 93);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(33, 93);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 4;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -208,6 +208,7 @@ namespace FinalProject
             this.btnPDF.TabIndex = 10;
             this.btnPDF.Text = "Generar PDF";
             this.btnPDF.UseVisualStyleBackColor = false;
+            this.btnPDF.Click += new System.EventHandler(this.btnPDF_Click);
             // 
             // label6
             // 

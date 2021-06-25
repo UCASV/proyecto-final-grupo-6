@@ -1,17 +1,14 @@
 using System;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using System.Windows.Forms.VisualStyles;
 using FinalProject.ProjectContext;
-using iText.IO.Font.Constants;
-using iText.Kernel.Font;
-using iText.Layout;
-using iText.Layout.Element;
-using iText.Layout.Properties;
-using PdfDocument = iText.Kernel.Pdf.PdfDocument;
-using PdfFont = iTextSharp.text.pdf.PdfFont;
-using PdfWriter = iText.Kernel.Pdf.PdfWriter;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Image = System.Drawing.Image;
 
 
 namespace FinalProject
@@ -111,69 +108,67 @@ namespace FinalProject
         }
 
 
-
         private void btnPDF_Click(object sender, EventArgs e)
         {
-            createPDF();
-
-        }
-
-        private void createPDF()
-        {
-            PdfWriter pdfAppo = new PdfWriter("Reporte_cita.pdf");
-            PdfDocument pdf = new PdfDocument(pdfAppo);
-            Document document = new Document(pdf, PageSize.LETTER);
-
-            document.SetMargins(40,20,40,20);
-
-            PdfFont fontCols = PdfFontFactory.CreateFont(StandardFonts.HELVETICA_BOLD);
-            PdfFont fontCont = PdfFontFactory.CreateFont(StandardFonts.HELVETICA);
-
-            string[] cols = {"N° cita", "Nombre", "Fecha de cita", "Hora de la cita", "Direccion de cabina"};
-            float[] tam = {2, 5, 4, 4, 5};
-    
-            Table table = new Table(UnitValue.CreatePercentArray(tam));
-            table.SetWidth(UnitValue.CreatePercentValue(100));
-    
-            var db = new < nombre>();
-    
-            var list = db.Appointments
-                .Include(i => i.DuiPatientNavigation)
-                .Include(i=> i.IdCabinNavigation)
-                .Where(i=> i.DuiPatientNavigation.Dui.Equals(txtDUI.Text))
-                .Select(x => new
-                {
-                    Numero_de_cita = x.Id,
-                    Nombre = x.DuiPatientNavigation.NamePatient,
-                    Fecha_cita = x.DateAppointment,
-                    Hora_cita = x.HourAppointment,
-                    Direccion = x.IdCabinNavigation.AddressCabin,
-                })
+            var db = new ProjectFinalV2Context();
+            var appoinList = db.Appointments
+                .Where(app => app.DuiCitizen.Equals(duiCitizen))
                 .ToList();
-
-
-            //string dateOne = list[0].Fecha_cita.ToString();
-            //string date = dateOne.Substring(0, 10);
-    
-    
-            foreach (string col in cols)
-            {
-                table.AddHeaderCell(new Cell().Add(new Paragraph(col).SetFont(fontCols)));
-            }
-    
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Numero_de_cita.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Nombre.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(date.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Hora_cita.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Direccion.ToString()).SetFont(fontCols)));
-    
-            document.Add(table);
-            document.Close();
             
+            Document documento = new Document();
+            PdfWriter.GetInstance(documento, new FileStream("ReservaCita.pdf", FileMode.OpenOrCreate));
+            documento.Open();
+            
+            Paragraph title = new Paragraph();
+            title.Font = FontFactory.GetFont(FontFactory.TIMES,18f,BaseColor.BLUE);
+            title.Add("Detalles de Cita");
+            title.Alignment = Element.ALIGN_CENTER;
+            documento.Add(title);
+            documento.Add(Chunk.NEWLINE); ;
+            
+            iTextSharp.text.Image Logo = iTextSharp.text.Image.GetInstance("VACUNA-COVID-19.png");
+            Logo.Alignment = Element.ALIGN_MIDDLE;
+            Logo.ScalePercent(50f);
+            Logo.ScaleAbsoluteWidth(110);
+            Logo.ScaleAbsoluteHeight(105);
+            documento.Add(Logo);
+            documento.Add(Chunk.NEWLINE); 
+            
+            
+            
+            PdfPTable table = new PdfPTable(5);
+            table.AddCell("Numero de Cita");
+            table.AddCell("DUI");
+            table.AddCell("Fecha");
+            table.AddCell("Hora");
+            table.AddCell("Lugar");
+            
+            
+            foreach (Appointment appo in appoinList)
+            {
+                var placePick = db.Set<Place>()
+                    .SingleOrDefault(pla => pla.Id == appo.IdPlace);
 
+                /*Paragraph p = new Paragraph(
+                    $"\nNueva Cita {appo.Id}\nDUI : {appo.DuiCitizen}\nFecha: {appo.Datetime.Day}/{appo.Datetime.Month}/{appo.Datetime.Year}" +
+                    $"\nHora: {appo.Datetime.Hour}:{appo.Datetime.Minute}\nLugar: {placePick.Place1}");
+
+                document.Add(p);*/
+                
+                table.AddCell(appo.Id.ToString());
+                table.AddCell(appo.DuiCitizen);
+                table.AddCell($"{appo.Datetime.Day}/{appo.Datetime.Month}/{appo.Datetime.Year}");
+                table.AddCell($"{appo.Datetime.Hour}:{appo.Datetime.Minute}");
+                table.AddCell(placePick.Place1);
+
+
+            }
+            
+            documento.Add(table);
+            documento.Close();
+            MessageBox.Show("El archivo ha sido creado", "creado", MessageBoxButtons.OK,
+                MessageBoxIcon.Asterisk);
+            this.Close();
         }
-        
-
-
     }
 }
