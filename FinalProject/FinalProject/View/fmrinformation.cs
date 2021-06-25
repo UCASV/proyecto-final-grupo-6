@@ -2,11 +2,16 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 using FinalProject.ProjectContext;
-
-
-
-
+using iText.IO.Font.Constants;
+using iText.Kernel.Font;
+using iText.Layout;
+using iText.Layout.Element;
+using iText.Layout.Properties;
+using PdfDocument = iText.Kernel.Pdf.PdfDocument;
+using PdfFont = iTextSharp.text.pdf.PdfFont;
+using PdfWriter = iText.Kernel.Pdf.PdfWriter;
 
 
 namespace FinalProject
@@ -82,8 +87,7 @@ namespace FinalProject
             //Date and Time 
             var dateGenerated = new DateTime(dayGenerated.Year, dayGenerated.Month, dayGenerated.Day,
                 timeGenerated.Hour, timeGenerated.Minute, 0);
-
-
+            
 
             //New Appointment 
             var newApp = new Appointment()
@@ -116,33 +120,60 @@ namespace FinalProject
 
         private void createPDF()
         {
+            PdfWriter pdfAppo = new PdfWriter("Reporte_cita.pdf");
+            PdfDocument pdf = new PdfDocument(pdfAppo);
+            Document document = new Document(pdf, PageSize.LETTER);
+
+            document.SetMargins(40,20,40,20);
+
+            PdfFont fontCols = PdfFontFactory.CreateFont(StandardFonts.HELVETICA_BOLD);
+            PdfFont fontCont = PdfFontFactory.CreateFont(StandardFonts.HELVETICA);
+
+            string[] cols = {"N° cita", "Nombre", "Fecha de cita", "Hora de la cita", "Direccion de cabina"};
+            float[] tam = {2, 5, 4, 4, 5};
+    
+            Table table = new Table(UnitValue.CreatePercentArray(tam));
+            table.SetWidth(UnitValue.CreatePercentValue(100));
+    
+            var db = new < nombre>();
+    
+            var list = db.Appointments
+                .Include(i => i.DuiPatientNavigation)
+                .Include(i=> i.IdCabinNavigation)
+                .Where(i=> i.DuiPatientNavigation.Dui.Equals(txtDUI.Text))
+                .Select(x => new
+                {
+                    Numero_de_cita = x.Id,
+                    Nombre = x.DuiPatientNavigation.NamePatient,
+                    Fecha_cita = x.DateAppointment,
+                    Hora_cita = x.HourAppointment,
+                    Direccion = x.IdCabinNavigation.AddressCabin,
+                })
+                .ToList();
+
+
+            //string dateOne = list[0].Fecha_cita.ToString();
+            //string date = dateOne.Substring(0, 10);
+    
+    
+            foreach (string col in cols)
+            {
+                table.AddHeaderCell(new Cell().Add(new Paragraph(col).SetFont(fontCols)));
+            }
+    
+            table.AddCell(new Cell().Add(new Paragraph(list[0].Numero_de_cita.ToString()).SetFont(fontCols)));
+            table.AddCell(new Cell().Add(new Paragraph(list[0].Nombre.ToString()).SetFont(fontCols)));
+            table.AddCell(new Cell().Add(new Paragraph(date.ToString()).SetFont(fontCols)));
+            table.AddCell(new Cell().Add(new Paragraph(list[0].Hora_cita.ToString()).SetFont(fontCols)));
+            table.AddCell(new Cell().Add(new Paragraph(list[0].Direccion.ToString()).SetFont(fontCols)));
+    
+            document.Add(table);
+            document.Close();
+            
+
         }
+        
+
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* Document doc = new Document(iTextSharp.text.PageSize.LETTER, 10, 10, 42, 35);
- PdfWriter wri = PdfWriter.GetInstance(doc, new FileStream("Cita", FileMode.Create));
- doc.Open();
-
- 
- }
- doc.Close();
- 
- 
-    
-}
-}
-}
-}*/
