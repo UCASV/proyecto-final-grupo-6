@@ -208,6 +208,7 @@ namespace FinalProject
             this.btnPDF.TabIndex = 10;
             this.btnPDF.Text = "Generar PDF";
             this.btnPDF.UseVisualStyleBackColor = false;
+            this.btnPDF.Click += new System.EventHandler(this.btnPDF_Click_1);
             // 
             // label6
             // 

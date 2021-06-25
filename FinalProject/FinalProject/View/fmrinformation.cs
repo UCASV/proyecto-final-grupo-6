@@ -1,14 +1,22 @@
 using System;
+using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using FinalProject.ProjectContext;
-using iText.IO.Font.Constants;
+using iTextSharp.text;
+using iTextSharp.text.pdf;  
+using System.IO;
+using Microsoft.EntityFrameworkCore;
+
+
+/*using iText.IO.Font.Constants;
 using iText.Kernel.Font;
 using iText.Kernel.Geom;
 using iText.Kernel.Pdf;
 using iText.Layout;
 using iText.Layout.Element;
-using iText.Layout.Properties;
+using iText.Layout.Properties;*/
+
 
 
 namespace FinalProject
@@ -108,59 +116,34 @@ namespace FinalProject
         }
 
 
-
-        private void btnPDF_Click(object sender, EventArgs e)
+        private void btnPDF_Click_1(object sender, EventArgs e)
         {
-            createPDF();
-
-        }
-
-        private void createPDF()
-        {
-            PdfWriter pdfAppo = new PdfWriter("ReporteCita.pdf");
-            PdfDocument pdf = new PdfDocument(pdfAppo);
-            Document document = new Document(pdf, PageSize.LETTER);
-
-            document.SetMargins(40,20,40,20);
-
-            PdfFont fontCols = PdfFontFactory.CreateFont(StandardFonts.HELVETICA_BOLD);
-            PdfFont fontCont = PdfFontFactory.CreateFont(StandardFonts.HELVETICA);
-
-            string[] cols = {"Id cita", "Nombre", "Fecha de cita", "Hora de la cita"};
-            float[] tam = {2, 5, 4, 4, 5};
-    
-            Table table = new Table(UnitValue.CreatePercentArray(tam));
-            table.SetWidth(UnitValue.CreatePercentValue(100));
-    
             var db = new ProjectFinalV2Context();
-    
-            var list = db.Appointments
-                .Where(i=> i.DuiCitizen.Equals(duiCitizen))
+            var appoinList = db.Appointments
+                .Where(app => app.DuiCitizen.Equals(duiCitizen))
                 .ToList();
-
-
-            //string dateOne = list[0].Fecha_cita.ToString();
-            //string date = dateOne.Substring(0, 10);
-    
-    
-            foreach (string col in cols)
-            {
-                table.AddHeaderCell(new Cell().Add(new Paragraph(col).SetFont(fontCols)));
-            }
-    
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Id.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].DuiCitizen)).SetFont(fontCols));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Datetime.Day.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].Datetime.Hour.ToString()).SetFont(fontCols)));
-            table.AddCell(new Cell().Add(new Paragraph(list[0].IdPlace.ToString()).SetFont(fontCols)));
-    
-            document.Add(table);
-            document.Close();
+            
+            
+            Document document = new Document();  
+            PdfWriter.GetInstance(document, new FileStream("C:/Users/xioma/Documents/A.pdf", FileMode.Create));  
+            document.Open();
             
 
+            foreach (Appointment appo in appoinList)
+            {
+                var placePick = db.Set<Place>()
+                    .SingleOrDefault(pla => pla.Id == appo.IdPlace);
+                
+                Paragraph p = new Paragraph($"\nNueva Cita {appo.Id}\nDUI : {appo.DuiCitizen}\nFecha: {appo.Datetime.Day}/{appo.Datetime.Month}/{appo.Datetime.Year}" +
+                                            $"\nHora: {appo.Datetime.Hour}:{appo.Datetime.Minute}\nLugar: {placePick.Place1}" );
+                
+                document.Add(p);  
+            }
+            
+            document.Close();
+            MessageBox.Show("Documento guardado exitosamente en carpeta 'DOCUMENTOS'", "creado", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            this.Close();
+           
         }
-        
-
-
     }
 }
