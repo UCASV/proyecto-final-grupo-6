@@ -106,8 +106,7 @@ namespace FinalProject
         {
             this.Close();
         }
-
-
+        
         private void btnPDF_Click(object sender, EventArgs e)
         {
             var db = new ProjectFinalV2Context();
