@@ -85,5 +85,10 @@ namespace FinalProject
             db.Add(newProcessCitizen);
             db.SaveChanges();
         }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

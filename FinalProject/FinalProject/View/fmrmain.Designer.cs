@@ -68,7 +68,7 @@
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(261, 32);
+            this.label1.Location = new System.Drawing.Point(265, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(268, 51);
             this.label1.TabIndex = 1;
@@ -77,13 +77,13 @@
             // 
             // label2
             // 
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(218, 83);
+            this.label2.Location = new System.Drawing.Point(227, 58);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(352, 23);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Sistema de Vacunacion COVID-19";
+            this.label2.Text = "Sistema de Vacunación  COVID-19";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
@@ -94,7 +94,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(162, 21);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Seleccione una opcion";
+            this.label3.Text = "Seleccione una opción ";
             // 
             // pictureBox1
             // 
@@ -109,7 +109,7 @@
             // btnnewUser
             // 
             this.btnnewUser.BackColor = System.Drawing.Color.LightBlue;
-            this.btnnewUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnnewUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnnewUser.Location = new System.Drawing.Point(93, 277);
             this.btnnewUser.Name = "btnnewUser";
             this.btnnewUser.Size = new System.Drawing.Size(142, 29);
@@ -131,7 +131,7 @@
             // btnAppoint
             // 
             this.btnAppoint.BackColor = System.Drawing.Color.LightBlue;
-            this.btnAppoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnAppoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnAppoint.Location = new System.Drawing.Point(307, 277);
             this.btnAppoint.Name = "btnAppoint";
             this.btnAppoint.Size = new System.Drawing.Size(162, 29);

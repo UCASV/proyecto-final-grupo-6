@@ -67,7 +67,7 @@ namespace FinalProject
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(21, 72);
+            this.label2.Location = new System.Drawing.Point(21, 81);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(347, 40);
             this.label2.TabIndex = 1;
@@ -79,7 +79,7 @@ namespace FinalProject
             this.pictureBox1.Image = ((System.Drawing.Image) (resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(256, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(112, 45);
+            this.pictureBox1.Size = new System.Drawing.Size(109, 45);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -87,7 +87,7 @@ namespace FinalProject
             // label3
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(3, 12);
             this.label3.Name = "label3";
@@ -111,7 +111,7 @@ namespace FinalProject
             this.tableLayoutPanel1.Controls.Add(this.label7, 0, 4);
             this.tableLayoutPanel1.Controls.Add(this.txtDay, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.dtpStar, 1, 2);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(36, 126);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(36, 133);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
@@ -153,7 +153,7 @@ namespace FinalProject
             // label4
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(3, 65);
             this.label4.Name = "label4";
@@ -165,11 +165,11 @@ namespace FinalProject
             // label5
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(3, 121);
+            this.label5.Location = new System.Drawing.Point(3, 108);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(160, 22);
+            this.label5.Size = new System.Drawing.Size(160, 48);
             this.label5.TabIndex = 5;
             this.label5.Text = "Hora inicio proceso";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -177,7 +177,7 @@ namespace FinalProject
             // label8
             // 
             this.label8.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(3, 174);
             this.label8.Name = "label8";
@@ -189,11 +189,11 @@ namespace FinalProject
             // label7
             // 
             this.label7.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(3, 228);
+            this.label7.Location = new System.Drawing.Point(3, 220);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(160, 22);
+            this.label7.Size = new System.Drawing.Size(160, 38);
             this.label7.TabIndex = 7;
             this.label7.Text = "Minutos con efectos secundarios";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -220,7 +220,7 @@ namespace FinalProject
             // 
             this.btnOk.BackColor = System.Drawing.Color.LightBlue;
             this.btnOk.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnOk.Location = new System.Drawing.Point(84, 414);
+            this.btnOk.Location = new System.Drawing.Point(58, 414);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(115, 27);
             this.btnOk.TabIndex = 10;
@@ -232,7 +232,7 @@ namespace FinalProject
             // 
             this.btnCancel.BackColor = System.Drawing.Color.LightBlue;
             this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnCancel.Location = new System.Drawing.Point(224, 414);
+            this.btnCancel.Location = new System.Drawing.Point(230, 414);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(115, 27);
             this.btnCancel.TabIndex = 11;
