@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
 using FinalProject.ProjectContext;
@@ -11,6 +12,7 @@ namespace FinalProject
         private ProjectFinalV2Context db { get; }
         private string duiCitizen { get;  }
         private Appointment appoPick { get; }
+        private ProcessVaccination vaccination { get; set; }
         
         
         public fmrsideeffects(string duiCitizen,Appointment appoPick)
@@ -31,6 +33,12 @@ namespace FinalProject
 
         private void btnOk_Click(object sender, EventArgs e)
         {
+            newProcess();
+
+        }
+        
+        private void newProcess()
+        {
             if (txtminutes.Text == "" || dtpStar.Value.Hour < 8 || dtpVaccine.Value.Hour > 18||dtpStar.Value>dtpVaccine.Value)
                 MessageBox.Show("Campos Invalidos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             else
@@ -40,15 +48,15 @@ namespace FinalProject
                 var dateVaccine = new DateTime(appoPick.Datetime.Year, appoPick.Datetime.Month, appoPick.Datetime.Day,
                     dtpVaccine.Value.Hour, dtpVaccine.Value.Minute, 0);
 
-                var newProcess = new ProcessVaccination()
+                vaccination = new ProcessVaccination()
                 {
-                   DatetimeRegistered = appoPick.Datetime,
-                   DatetimeInitiation = dateStar,
-                   DatetimeVaccine = dateVaccine,
-                   TimeEffect = Convert.ToInt32(txtminutes.Text)
+                    DatetimeRegistered = appoPick.Datetime,
+                    DatetimeInitiation = dateStar,
+                    DatetimeVaccine = dateVaccine,
+                    TimeEffect = Convert.ToInt32(txtminutes.Text)
                 };
 
-                db.Add(newProcess);
+                db.Add(vaccination);
                 db.SaveChanges();
                 
                 //Creating new ProcessxCitizen
@@ -62,10 +70,11 @@ namespace FinalProject
 
         }
 
+        
         private void SavingProcesCitizen()
         {
             var processDB = db.Set<ProcessVaccination>()
-                .SingleOrDefault(vaccine => vaccine.DatetimeRegistered.Day == appoPick.Datetime.Day);
+                .SingleOrDefault(vaccine => vaccine.Id == vaccination.Id);
             
             
             var newProcessCitizen = new Processxcitizen()

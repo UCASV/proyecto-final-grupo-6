@@ -40,7 +40,7 @@ namespace FinalProject.ProjectContext
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS");
+            modelBuilder.HasAnnotation("Relational:Collation", "Modern_Spanish_CI_AS");
 
             modelBuilder.Entity<Appointment>(entity =>
             {
@@ -66,19 +66,19 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Appointments)
                     .HasForeignKey(d => d.DuiCitizen)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__APPOINTME__dui_c__5812160E");
+                    .HasConstraintName("FK__APPOINTME__dui_c__44FF419A");
 
                 entity.HasOne(d => d.IdEmployeeNavigation)
                     .WithMany(p => p.Appointments)
                     .HasForeignKey(d => d.IdEmployee)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__APPOINTME__id_em__571DF1D5");
+                    .HasConstraintName("FK__APPOINTME__id_em__440B1D61");
 
                 entity.HasOne(d => d.IdPlaceNavigation)
                     .WithMany(p => p.Appointments)
                     .HasForeignKey(d => d.IdPlace)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__APPOINTME__id_pl__5AEE82B9");
+                    .HasConstraintName("FK__APPOINTME__id_pl__47DBAE45");
             });
 
             modelBuilder.Entity<Cabin>(entity =>
@@ -109,7 +109,7 @@ namespace FinalProject.ProjectContext
             modelBuilder.Entity<Citizen>(entity =>
             {
                 entity.HasKey(e => e.Dui)
-                    .HasName("PK__CITIZEN__D876F1BE3629800C");
+                    .HasName("PK__CITIZEN__D876F1BE6FBAEFB5");
 
                 entity.ToTable("CITIZEN");
 
@@ -150,13 +150,13 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Citizens)
                     .HasForeignKey(d => d.IdGroup)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__CITIZEN__id_grou__59FA5E80");
+                    .HasConstraintName("FK__CITIZEN__id_grou__46E78A0C");
 
                 entity.HasOne(d => d.IdInstitutionNavigation)
                     .WithMany(p => p.Citizens)
                     .HasForeignKey(d => d.IdInstitution)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__CITIZEN__id_inst__59063A47");
+                    .HasConstraintName("FK__CITIZEN__id_inst__45F365D3");
             });
 
             modelBuilder.Entity<Employee>(entity =>
@@ -203,13 +203,13 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Employees)
                     .HasForeignKey(d => d.IdCabin)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__EMPLOYEE__id_cab__5441852A");
+                    .HasConstraintName("FK__EMPLOYEE__id_cab__412EB0B6");
 
                 entity.HasOne(d => d.IdTypeNavigation)
                     .WithMany(p => p.Employees)
                     .HasForeignKey(d => d.IdType)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__EMPLOYEE__id_typ__5BE2A6F2");
+                    .HasConstraintName("FK__EMPLOYEE__id_typ__48CFD27E");
             });
 
             modelBuilder.Entity<Group>(entity =>
@@ -289,13 +289,13 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Processxcitizens)
                     .HasForeignKey(d => d.IdCitizen)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__PROCESSXC__id_ci__5CD6CB2B");
+                    .HasConstraintName("FK__PROCESSXC__id_ci__49C3F6B7");
 
                 entity.HasOne(d => d.IdProcessNavigation)
                     .WithMany(p => p.Processxcitizens)
                     .HasForeignKey(d => d.IdProcess)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__PROCESSXC__id_pr__5DCAEF64");
+                    .HasConstraintName("FK__PROCESSXC__id_pr__4AB81AF0");
             });
 
             modelBuilder.Entity<Session>(entity =>
@@ -316,13 +316,13 @@ namespace FinalProject.ProjectContext
                     .WithMany(p => p.Sessions)
                     .HasForeignKey(d => d.IdCabin)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__SESSION__id_cabi__5629CD9C");
+                    .HasConstraintName("FK__SESSION__id_cabi__4316F928");
 
                 entity.HasOne(d => d.IdEmployeeNavigation)
                     .WithMany(p => p.Sessions)
                     .HasForeignKey(d => d.IdEmployee)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__SESSION__id_empl__5535A963");
+                    .HasConstraintName("FK__SESSION__id_empl__4222D4EF");
             });
 
             modelBuilder.Entity<Type>(entity =>

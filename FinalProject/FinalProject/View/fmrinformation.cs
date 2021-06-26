@@ -9,6 +9,19 @@ using iTextSharp.text.pdf;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Image = System.Drawing.Image;
+using iTextSharp.text.pdf;  
+using System.IO;
+using Microsoft.EntityFrameworkCore;
+
+
+/*using iText.IO.Font.Constants;
+using iText.Kernel.Font;
+using iText.Kernel.Geom;
+using iText.Kernel.Pdf;
+using iText.Layout;
+using iText.Layout.Element;
+using iText.Layout.Properties;*/
+
 
 
 namespace FinalProject
@@ -107,7 +120,7 @@ namespace FinalProject
             this.Close();
         }
         
-        private void btnPDF_Click(object sender, EventArgs e)
+            private void btnPDF_Click(object sender, EventArgs e)
         {
             var db = new ProjectFinalV2Context();
             var appoinList = db.Appointments
@@ -169,5 +182,7 @@ namespace FinalProject
                 MessageBoxIcon.Asterisk);
             this.Close();
         }
+
+        
     }
 }
