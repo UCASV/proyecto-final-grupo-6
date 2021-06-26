@@ -206,5 +206,10 @@ namespace FinalProject
                 this.Close();
             
         }
+
+        private void btnreturn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
