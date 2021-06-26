@@ -49,9 +49,9 @@
             // statusStrip1
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.sspUser});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 327);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 321);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(566, 23);
+            this.statusStrip1.Size = new System.Drawing.Size(566, 29);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -61,7 +61,7 @@
             this.sspUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.sspUser.ForeColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.sspUser.Name = "sspUser";
-            this.sspUser.Size = new System.Drawing.Size(89, 18);
+            this.sspUser.Size = new System.Drawing.Size(120, 24);
             this.sspUser.Text = "xxxx XXXX";
             // 
             // label1
@@ -88,11 +88,11 @@
             // 
             // label3
             // 
-            this.label3.Font = new System.Drawing.Font("Source Sans Pro", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(48, 122);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(162, 21);
+            this.label3.Size = new System.Drawing.Size(218, 21);
             this.label3.TabIndex = 3;
             this.label3.Text = "Seleccione una opción ";
             // 
@@ -132,9 +132,9 @@
             // 
             this.btnAppoint.BackColor = System.Drawing.Color.LightBlue;
             this.btnAppoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnAppoint.Location = new System.Drawing.Point(307, 277);
+            this.btnAppoint.Location = new System.Drawing.Point(321, 277);
             this.btnAppoint.Name = "btnAppoint";
-            this.btnAppoint.Size = new System.Drawing.Size(162, 29);
+            this.btnAppoint.Size = new System.Drawing.Size(201, 29);
             this.btnAppoint.TabIndex = 8;
             this.btnAppoint.Text = "Seguimiento de cita";
             this.btnAppoint.UseVisualStyleBackColor = false;
@@ -143,7 +143,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image) (resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(320, 157);
+            this.pictureBox3.Location = new System.Drawing.Point(357, 157);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(135, 114);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -152,7 +152,7 @@
             // 
             // fmrmain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.ClientSize = new System.Drawing.Size(566, 350);
