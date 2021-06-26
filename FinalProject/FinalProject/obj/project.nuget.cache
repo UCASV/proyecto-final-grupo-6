@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zxStwaqheJxIIVRgKJ4jodOkeYNoiZMhMjy8HJs7njZYEgIGXyvzBUEdSQfKfpWjBil9t1gdzYZmC7IDiD/E2w==",
+  "dgSpecHash": "cInvBMAFkS4XHB6BM1Xjvl6j9FsnExDTjmgQvSunS5XkRVdpMEscuhhACFh4SIkxO1izvFKobxZaWEjFqpwNFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\adama\\OneDrive\\Documentos\\UCA\\Ciclo 01 (2021)\\bases de datos\\PROYECTOFINAL\\NuevoProyectoFinal\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
@@ -108,7 +108,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"BouncyCastle 1.8.6.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'BouncyCastle 1.8.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "BouncyCastle",
       "targetGraphs": [
         "net5.0-windows7.0"
@@ -118,7 +118,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"iTextSharp 5.5.13.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'iTextSharp 5.5.13.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net5.0-windows7.0"
