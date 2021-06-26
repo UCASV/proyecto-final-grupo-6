@@ -34,8 +34,7 @@ namespace FinalProject
             
 
         }
-
-
+        
         private void btncreate_Click(object sender, EventArgs e)
         {
             var db = new ProjectFinalV2Context();
@@ -52,6 +51,13 @@ namespace FinalProject
                     MessageBoxIcon.Exclamation);
                 return;
             }
+            else if (txtDUI.Text.Length < 9)
+            {
+                MessageBox.Show("Digite los nueve caractereres de su DUI", "Signos invalidos", MessageBoxButtons.OK,
+                    MessageBoxIcon.Exclamation);
+                return;
+            }
+            
             else if (((Group)cmbGroup.SelectedItem).Id==6)
             {
                 MessageBox.Show("Debe pertenecer a un grupo de prioridad", "Grupo no valido", MessageBoxButtons.OK,
