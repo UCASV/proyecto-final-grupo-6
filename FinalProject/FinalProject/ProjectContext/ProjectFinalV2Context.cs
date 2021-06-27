@@ -109,7 +109,7 @@ namespace FinalProject.ProjectContext
             modelBuilder.Entity<Citizen>(entity =>
             {
                 entity.HasKey(e => e.Dui)
-                    .HasName("PK__CITIZEN__D876F1BECBA64639");
+                    .HasName("PK__CITIZEN__D876F1BE7D1478EE");
 
                 entity.ToTable("CITIZEN");
 
