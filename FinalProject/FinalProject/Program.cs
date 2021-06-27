@@ -17,7 +17,7 @@ namespace FinalProject
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrlogin());
+            Application.Run(new fmrnewuser(1));
         }
     }
 }
