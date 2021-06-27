@@ -62,7 +62,7 @@ namespace FinalProject
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image) (resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(356, 14);
+            this.pictureBox1.Location = new System.Drawing.Point(331, 14);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(236, 120);
