@@ -47,7 +47,7 @@ namespace FinalProject
 
             if (txtDUI.Text == "" || txtName.Text == "" || txtPhone.Text == "" || txtAddress.Text == "")
             {
-                MessageBox.Show("Completar campos requeridos", "Campos requeridos", MessageBoxButtons.OK,
+                MessageBox.Show("Completar los campos requeridos", "Campos requeridos", MessageBoxButtons.OK,
                     MessageBoxIcon.Exclamation);
                 return;
             }

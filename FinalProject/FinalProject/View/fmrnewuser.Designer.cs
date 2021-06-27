@@ -79,7 +79,7 @@ namespace FinalProject
             this.cmbInstitution.Location = new System.Drawing.Point(306, 314);
             this.cmbInstitution.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbInstitution.Name = "cmbInstitution";
-            this.cmbInstitution.Size = new System.Drawing.Size(273, 33);
+            this.cmbInstitution.Size = new System.Drawing.Size(273, 37);
             this.cmbInstitution.TabIndex = 14;
             // 
             // txtDUI
@@ -89,7 +89,7 @@ namespace FinalProject
             this.txtDUI.Location = new System.Drawing.Point(316, 6);
             this.txtDUI.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtDUI.Name = "txtDUI";
-            this.txtDUI.Size = new System.Drawing.Size(253, 30);
+            this.txtDUI.Size = new System.Drawing.Size(253, 35);
             this.txtDUI.TabIndex = 9;
             // 
             // label7
@@ -190,7 +190,7 @@ namespace FinalProject
             this.txtName.Location = new System.Drawing.Point(313, 91);
             this.txtName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(259, 30);
+            this.txtName.Size = new System.Drawing.Size(259, 35);
             this.txtName.TabIndex = 10;
             // 
             // txtPhone
@@ -200,7 +200,7 @@ namespace FinalProject
             this.txtPhone.Location = new System.Drawing.Point(314, 133);
             this.txtPhone.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(258, 30);
+            this.txtPhone.Size = new System.Drawing.Size(258, 35);
             this.txtPhone.TabIndex = 11;
             // 
             // txtEmail
@@ -210,7 +210,7 @@ namespace FinalProject
             this.txtEmail.Location = new System.Drawing.Point(309, 217);
             this.txtEmail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(268, 30);
+            this.txtEmail.Size = new System.Drawing.Size(268, 35);
             this.txtEmail.TabIndex = 12;
             // 
             // txtAddress
@@ -228,7 +228,7 @@ namespace FinalProject
             // 
             this.cmbGroup.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.cmbGroup.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbGroup.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.cmbGroup.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.cmbGroup.FormattingEnabled = true;
             this.cmbGroup.Location = new System.Drawing.Point(307, 356);
             this.cmbGroup.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -365,7 +365,7 @@ namespace FinalProject
             // 
             // fmrnewuser
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.ClientSize = new System.Drawing.Size(619, 609);

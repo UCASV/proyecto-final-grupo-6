@@ -49,9 +49,9 @@
             // statusStrip1
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.sspUser});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 321);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 342);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(566, 29);
+            this.statusStrip1.Size = new System.Drawing.Size(585, 34);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -61,16 +61,16 @@
             this.sspUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.sspUser.ForeColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.sspUser.Name = "sspUser";
-            this.sspUser.Size = new System.Drawing.Size(120, 24);
+            this.sspUser.Size = new System.Drawing.Size(140, 29);
             this.sspUser.Text = "xxxx XXXX";
             // 
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(265, 18);
+            this.label1.Location = new System.Drawing.Point(253, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(268, 51);
+            this.label1.Size = new System.Drawing.Size(280, 54);
             this.label1.TabIndex = 1;
             this.label1.Text = "Bienvenido";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -81,7 +81,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(227, 58);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(352, 23);
+            this.label2.Size = new System.Drawing.Size(352, 34);
             this.label2.TabIndex = 2;
             this.label2.Text = "Sistema de Vacunación  COVID-19";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -90,9 +90,9 @@
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(48, 122);
+            this.label3.Location = new System.Drawing.Point(21, 122);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(218, 21);
+            this.label3.Size = new System.Drawing.Size(235, 32);
             this.label3.TabIndex = 3;
             this.label3.Text = "Seleccione una opción ";
             // 
@@ -110,9 +110,9 @@
             // 
             this.btnnewUser.BackColor = System.Drawing.Color.LightBlue;
             this.btnnewUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnnewUser.Location = new System.Drawing.Point(93, 277);
+            this.btnnewUser.Location = new System.Drawing.Point(53, 277);
             this.btnnewUser.Name = "btnnewUser";
-            this.btnnewUser.Size = new System.Drawing.Size(142, 29);
+            this.btnnewUser.Size = new System.Drawing.Size(168, 29);
             this.btnnewUser.TabIndex = 5;
             this.btnnewUser.Text = "Nuevo Usuario";
             this.btnnewUser.UseVisualStyleBackColor = false;
@@ -121,7 +121,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image) (resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(93, 157);
+            this.pictureBox2.Location = new System.Drawing.Point(67, 157);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(142, 114);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -134,7 +134,7 @@
             this.btnAppoint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnAppoint.Location = new System.Drawing.Point(321, 277);
             this.btnAppoint.Name = "btnAppoint";
-            this.btnAppoint.Size = new System.Drawing.Size(201, 29);
+            this.btnAppoint.Size = new System.Drawing.Size(212, 36);
             this.btnAppoint.TabIndex = 8;
             this.btnAppoint.Text = "Seguimiento de cita";
             this.btnAppoint.UseVisualStyleBackColor = false;
@@ -152,10 +152,10 @@
             // 
             // fmrmain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
-            this.ClientSize = new System.Drawing.Size(566, 350);
+            this.ClientSize = new System.Drawing.Size(585, 376);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.btnAppoint);
             this.Controls.Add(this.pictureBox2);
