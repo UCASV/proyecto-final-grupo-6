@@ -62,7 +62,7 @@ namespace FinalProject
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image) (resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(459, 14);
+            this.pictureBox1.Location = new System.Drawing.Point(445, 9);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(236, 120);
@@ -79,7 +79,7 @@ namespace FinalProject
             this.cmbInstitution.Location = new System.Drawing.Point(274, 358);
             this.cmbInstitution.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbInstitution.Name = "cmbInstitution";
-            this.cmbInstitution.Size = new System.Drawing.Size(519, 33);
+            this.cmbInstitution.Size = new System.Drawing.Size(519, 28);
             this.cmbInstitution.TabIndex = 14;
             // 
             // txtDUI
@@ -89,13 +89,13 @@ namespace FinalProject
             this.txtDUI.Location = new System.Drawing.Point(329, 6);
             this.txtDUI.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtDUI.Name = "txtDUI";
-            this.txtDUI.Size = new System.Drawing.Size(408, 30);
+            this.txtDUI.Size = new System.Drawing.Size(408, 26);
             this.txtDUI.TabIndex = 9;
             // 
             // label7
             // 
             this.label7.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(5, 406);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -108,7 +108,7 @@ namespace FinalProject
             // label6
             // 
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label6.ForeColor = System.Drawing.Color.White;
             this.label6.Location = new System.Drawing.Point(5, 353);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -121,7 +121,7 @@ namespace FinalProject
             // label5
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(5, 290);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -134,7 +134,7 @@ namespace FinalProject
             // label4
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(5, 242);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -147,7 +147,7 @@ namespace FinalProject
             // label2
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(5, 146);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -160,7 +160,7 @@ namespace FinalProject
             // label3
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(5, 98);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -173,7 +173,7 @@ namespace FinalProject
             // label1
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(5, 1);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -190,7 +190,7 @@ namespace FinalProject
             this.txtName.Location = new System.Drawing.Point(331, 103);
             this.txtName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(404, 30);
+            this.txtName.Size = new System.Drawing.Size(404, 26);
             this.txtName.TabIndex = 10;
             // 
             // txtPhone
@@ -200,7 +200,7 @@ namespace FinalProject
             this.txtPhone.Location = new System.Drawing.Point(330, 151);
             this.txtPhone.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(407, 30);
+            this.txtPhone.Size = new System.Drawing.Size(407, 26);
             this.txtPhone.TabIndex = 11;
             // 
             // txtEmail
@@ -210,7 +210,7 @@ namespace FinalProject
             this.txtEmail.Location = new System.Drawing.Point(332, 247);
             this.txtEmail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(402, 30);
+            this.txtEmail.Size = new System.Drawing.Size(402, 26);
             this.txtEmail.TabIndex = 12;
             // 
             // txtAddress
@@ -233,7 +233,7 @@ namespace FinalProject
             this.cmbGroup.Location = new System.Drawing.Point(274, 411);
             this.cmbGroup.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbGroup.Name = "cmbGroup";
-            this.cmbGroup.Size = new System.Drawing.Size(519, 30);
+            this.cmbGroup.Size = new System.Drawing.Size(519, 26);
             this.cmbGroup.TabIndex = 15;
             // 
             // tableLayoutPanel1
@@ -278,7 +278,7 @@ namespace FinalProject
             // 
             this.label8.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.tableLayoutPanel1.SetColumnSpan(this.label8, 2);
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(4, 50);
             this.label8.Name = "label8";
@@ -291,11 +291,11 @@ namespace FinalProject
             // 
             this.label10.Anchor = ((System.Windows.Forms.AnchorStyles) ((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.tableLayoutPanel1.SetColumnSpan(this.label10, 2);
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(4, 200);
+            this.label10.Location = new System.Drawing.Point(4, 194);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(794, 34);
+            this.label10.Size = new System.Drawing.Size(794, 47);
             this.label10.TabIndex = 17;
             this.label10.Text = "*Solo número celular";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -317,10 +317,10 @@ namespace FinalProject
             // 
             this.btncreate.BackColor = System.Drawing.Color.LightBlue;
             this.btncreate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btncreate.Location = new System.Drawing.Point(145, 612);
+            this.btncreate.Location = new System.Drawing.Point(66, 606);
             this.btncreate.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btncreate.Name = "btncreate";
-            this.btncreate.Size = new System.Drawing.Size(189, 32);
+            this.btncreate.Size = new System.Drawing.Size(200, 39);
             this.btncreate.TabIndex = 4;
             this.btncreate.Text = "Crear";
             this.btncreate.UseVisualStyleBackColor = false;
@@ -330,10 +330,10 @@ namespace FinalProject
             // 
             this.btnCancel.BackColor = System.Drawing.Color.LightBlue;
             this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.btnCancel.Location = new System.Drawing.Point(587, 606);
+            this.btnCancel.Location = new System.Drawing.Point(550, 606);
             this.btnCancel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(189, 32);
+            this.btnCancel.Size = new System.Drawing.Size(202, 39);
             this.btnCancel.TabIndex = 5;
             this.btnCancel.Text = "Cancelar";
             this.btnCancel.UseVisualStyleBackColor = false;
@@ -343,7 +343,7 @@ namespace FinalProject
             // 
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label12.ForeColor = System.Drawing.Color.White;
-            this.label12.Location = new System.Drawing.Point(13, 9);
+            this.label12.Location = new System.Drawing.Point(66, -3);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(291, 96);
@@ -353,9 +353,9 @@ namespace FinalProject
             // 
             // label13
             // 
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(128, 105);
+            this.label13.Location = new System.Drawing.Point(-11, 105);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(305, 29);
@@ -365,7 +365,7 @@ namespace FinalProject
             // 
             // fmrnewuser
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (40)))), ((int) (((byte) (54)))), ((int) (((byte) (115)))));
             this.ClientSize = new System.Drawing.Size(830, 658);

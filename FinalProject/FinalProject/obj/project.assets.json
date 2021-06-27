@@ -5812,24 +5812,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adama\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\delmy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adama\\OneDrive\\Documentos\\UCA\\Ciclo 01 (2021)\\bases de datos\\PROYECTOFINAL\\ProyectoBDDyPOO\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\adama\\OneDrive\\Documentos\\UCA\\Ciclo 01 (2021)\\bases de datos\\PROYECTOFINAL\\ProyectoBDDyPOO\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
-      "packagesPath": "C:\\Users\\adama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adama\\OneDrive\\Documentos\\UCA\\Ciclo 01 (2021)\\bases de datos\\PROYECTOFINAL\\ProyectoBDDyPOO\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\obj\\",
+      "projectPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "packagesPath": "C:\\Users\\delmy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\adama\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\delmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
