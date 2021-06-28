@@ -24,6 +24,19 @@ namespace FinalProject
         private void fmrmain_Load(object sender, EventArgs e)
         {
             sspUser.Text = $"Bienvenido {loginEmployee.Name}"; 
+            
+            //Creating new session 
+            var dateGenerator = new DateTime(DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day, 9, 0,0);
+            var db = new ProjectFinalV2Context();
+            var newSession = new Session()
+            {
+                Datetime = dateGenerator,
+                IdEmployee = loginEmployee.Id,
+                IdCabin = RandomGenerator.GetRandomCabin()
+            };
+            db.Add(newSession);
+            db.SaveChanges();
+
         }
 
         private void btnnewUser_Click(object sender, EventArgs e)

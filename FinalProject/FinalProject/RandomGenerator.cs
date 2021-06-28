@@ -30,15 +30,28 @@ namespace FinalProject
 
         }
 
-        public static int GetRandomElement(List<Place> newList)
+        public static int GetRandomElement()
         {
             Random rnd = new Random();
             var db = new ProjectFinalV2Context();
             var placeList = db.Places
                 .ToList();
-            int index = rnd.Next(newList.Count);
+            int index = rnd.Next(placeList.Count);
 
-            var newPlace = ((Place) newList[index]);
+            var newPlace =  placeList[index];
+            
+            return newPlace.Id; 
+        }
+        
+        public static int GetRandomCabin()
+        {
+            Random rnd = new Random();
+            var db = new ProjectFinalV2Context();
+            var cabinList = db.Cabins
+                .ToList();
+            int index = rnd.Next(cabinList.Count);
+
+            var newPlace = cabinList[index];
             
             return newPlace.Id; 
         }

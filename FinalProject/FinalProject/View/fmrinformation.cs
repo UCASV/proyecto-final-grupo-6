@@ -46,12 +46,11 @@ namespace FinalProject
 
             //db Context
             var dbcontext = new ProjectFinalV2Context();
-            var placeList = dbcontext.Places
-                .ToList();
+            
             var appointmentList = dbcontext.Appointments
                 .ToList();
 
-            var idPlace = RandomGenerator.GetRandomElement(placeList);
+            var idPlace = RandomGenerator.GetRandomElement();
             var placepick = dbcontext.Set<Place>()
                 .SingleOrDefault(pla => pla.Id == idPlace);
 
@@ -71,7 +70,7 @@ namespace FinalProject
             {
                 var appointDB = dbcontext.Set<Appointment>()
                     .SingleOrDefault(appo => appo.DuiCitizen == duiCitizen);
-                dayGenerated = dayGenerated.AddDays(49); 
+                dayGenerated = appointDB.Datetime.AddDays(49); 
                 timeGenerated = RandomGenerator.GetRandomTime();
                 
             }
