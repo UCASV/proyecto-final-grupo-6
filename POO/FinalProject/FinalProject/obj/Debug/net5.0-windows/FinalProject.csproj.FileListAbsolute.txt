@@ -1,0 +1,576 @@
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\delmy\Desktop\POO0121_PROYECTOFINAL\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Common.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Common.Logging.Core.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.barcodes.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.forms.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.io.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.kernel.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.layout.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.pdfa.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.sign.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.styledxmlparser.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itext.svg.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\Proyecto_Final\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\PROYECTO_FINAL\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+>>>>>>> b05aeb1e40a19a4a8ea6f1856915209faef3fdab
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\NuevoProyectoFinal\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\Boris\Desktop\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\adama\OneDrive\Documentos\UCA\Ciclo 01 (2021)\bases de datos\PROYECTOFINAL\ProyectoBDDyPOO\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\delmy\OneDrive\Documentos\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrappointment.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrinformation.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrlogin.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrmain.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrnewuser.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.fmrsideeffects.resources
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.GenerateResource.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+C:\Users\xioma\Documents\TERCER CICLO_2021\POO\FINALPROJECT\proyecto-final-grupo-6\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
