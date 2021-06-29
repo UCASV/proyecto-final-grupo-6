@@ -5817,18 +5817,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\delmy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\POO\\FinalProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\delmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},

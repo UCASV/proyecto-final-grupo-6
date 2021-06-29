@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTbLM3xltiV5pjfEsmbDI83bfnq4kgPG/NEJ9rxibirCRRfE6wq9PkMRSo859mf5aFH4YEX9C8PGDjBga+CE2w==",
+  "dgSpecHash": "OKclPtCOtGVd3jU/z5agPEGRTCjkJxzt+/I/TFjdk6Fe56BXLLRr0BXsk288nYXulg9mMpg8fftsqz4HV11yIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\POO\\FinalProject\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delmy\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
     "C:\\Users\\delmy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
