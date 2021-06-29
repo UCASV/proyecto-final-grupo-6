@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FINALPROJECT\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FINALPROJECT\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FINALPROJECT\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FINALPROJECT\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
-        "packagesPath": "C:\\Users\\xioma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xioma\\Documents\\TERCER CICLO_2021\\POO\\FINALPROJECT\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\obj\\",
+        "projectPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\delmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\delmy\\OneDrive\\Documentos\\proyecto-final-grupo-6\\FinalProject\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xioma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\delmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +77,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

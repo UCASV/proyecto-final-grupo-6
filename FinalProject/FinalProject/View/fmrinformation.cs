@@ -14,16 +14,6 @@ using System.IO;
 using Microsoft.EntityFrameworkCore;
 
 
-/*using iText.IO.Font.Constants;
-using iText.Kernel.Font;
-using iText.Kernel.Geom;
-using iText.Kernel.Pdf;
-using iText.Layout;
-using iText.Layout.Element;
-using iText.Layout.Properties;*/
-
-
-
 namespace FinalProject
 {
     public partial class fmrinformation : Form
@@ -126,9 +116,16 @@ namespace FinalProject
                 .Where(app => app.DuiCitizen.Equals(duiCitizen))
                 .ToList();
             
-            Document documento = new Document();
-            PdfWriter.GetInstance(documento, new FileStream("ReservaCita.pdf", FileMode.OpenOrCreate));
-            documento.Open();
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.FileName = "Reserva_Cita.PDF";
+            saveFileDialog.ShowDialog();
+
+            
+            Document documento = new Document(iTextSharp.text.PageSize.LETTER, 10f, 10f, 10f, 0f);
+            var path = string.Empty;
+            path = saveFileDialog.FileName;
+            PdfWriter wri = PdfWriter.GetInstance(documento, new FileStream(path, FileMode.Create));
+            documento.Open();      
             
             Paragraph title = new Paragraph();
             title.Font = FontFactory.GetFont(FontFactory.TIMES,18f,BaseColor.BLUE);
