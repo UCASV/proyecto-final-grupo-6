@@ -45,9 +45,7 @@
   - Una vez descargado los dos instaladores anteriormente, procedemos a abrir el instalador "**Installer**".
   - Cuando le demos doble click nos mostrara una ventana donde nos aparecera dos opciones las cuales son "**Siguiente**" o "**Cancelar**". En este caso procedemos a darle en **Siguiente**.
 
-<p align="center">
-    <img src="imagenes/insta1.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta1.jpeg)
 
   - Después de darle siguiente, nos aparecera un apartado el cual se llama "**Seleccionar carpeta de instalación**".
 
