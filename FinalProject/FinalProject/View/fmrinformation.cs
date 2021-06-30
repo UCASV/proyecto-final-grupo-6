@@ -134,16 +134,6 @@ namespace FinalProject
             documento.Add(title);
             documento.Add(Chunk.NEWLINE); ;
             
-            iTextSharp.text.Image Logo = iTextSharp.text.Image.GetInstance("VACUNA-COVID-19.png");
-            Logo.Alignment = Element.ALIGN_MIDDLE;
-            Logo.ScalePercent(50f);
-            Logo.ScaleAbsoluteWidth(110);
-            Logo.ScaleAbsoluteHeight(105);
-            documento.Add(Logo);
-            documento.Add(Chunk.NEWLINE); 
-            
-            
-            
             PdfPTable table = new PdfPTable(5);
             table.AddCell("Numero de Cita");
             table.AddCell("DUI");
