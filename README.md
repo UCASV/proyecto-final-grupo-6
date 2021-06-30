@@ -92,6 +92,14 @@ Asi finalizamos el proceso de instalación.
 ![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo1.jpeg)
 
 - Una vez ingresado el usuario y la contraseña correctamente, aparecera un nuevo apartado que se llama "**Creando usuario**".
+- **Nota** : Solo aquel empleado que cuente con el permiso de **Gestor** puede acceder al sistema 
+- **Gestor Genérico para probar el programa :** 
+  - Nombre: **Henrie Thompson**
+  - Usuario: **hnisuis7**
+  - Contraseña: **48mBNo1LP**
+- *Para encontrar la lista de empleados revisar archivo **"data_bank_final"** disponible en la carpeta "Base de datos" en este repositorio*
+
+
 
 ## **Creando Usuario**
 - Su DUI: El DUI es el Documento Único de Identidad.
