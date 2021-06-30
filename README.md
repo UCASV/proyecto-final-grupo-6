@@ -53,37 +53,27 @@
   - En este apartado tenemos la opción de examinar en que carpeta de nuestra computadora queremos guardar el instalador. En nuestro caso lo dejaremos por default.
   - Además tenemos que seleccionar la opción que dice "**Sólo para este usuario**" y podemos darle click en **Siguiente**.
 
-<p align="center">
-    <img src="imagenes/insta2.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta2.jpeg)
 
 ## **Confirmar Instalación**
   - Si no estamos seguros con los pasos anteriores tenemos una opcion que se llama "**Atrás**".
   - Una vez confirmamos que todos los pasos anteriores esten correctamente, podemos proceder con la instalación dando click en **Siguiente**.
 
-<p align="center">
-    <img src="imagenes/insta3.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta3.jpeg)
 
 ## **Instalando Installer**
   - En este apartado esperaremos unos segundos hasta que se haya instalado todo correctamente.
 
-<p align="center">
-    <img src="imagenes/insta4.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta4.jpeg)
 
 ## **Instalación Completa**
   - Una vez finalizado la instalación, nos aparecera un mensaje diciendo "**Installer se ha instalado correctamente. Haga click en Cerrar para salir.**"
 
-<p align="center">
-    <img src="imagenes/insta5.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta5.jpeg)
 
   - El acceso directo lo encontraremos en nuestro escritorio con el siguiente icono.
 
-<p align="center">
-    <img src="imagenes/insta6.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/insta6.jpeg)
 
 Asi finalizamos el proceso de instalación.
 #
@@ -92,18 +82,14 @@ Asi finalizamos el proceso de instalación.
 
 # **MANUAL DE USUARIO**
 
-<p align="center">
-    <img src="imagenes/covid.png">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/covid.png)
 
 #
 
 ## **INICIO DE SESIÓN**
 - Al momento de ejecutar el programa, al usuario se le presentara una ventada donde habra un apartado para que digite su usuario y contraseña.
 
-<p align="center">
-    <img src="imagenes/campo1.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo1.jpeg)
 
 - Una vez ingresado el usuario y la contraseña correctamente, aparecera un nuevo apartado que se llama "**Creando usuario**".
 
@@ -116,33 +102,25 @@ Asi finalizamos el proceso de instalación.
 - Institución a la que pertenece: Aquí colocaremos al área en la que pertenece o tiene la opción de poner otra institución
 - Pertenece a alguno de estos grupos: en este apartado el usuario tiene que seleccionar si está entre el rango de edad ya estipulado.
 
-<p align="center">
-    <img src="imagenes/campo2.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo2.jpeg)
 
 - Cuando el usuario haya completado los campos correctamente, nos llevara a otro apartado que son el **Detalle cita** 
 
 ## **Detalle Cita**
 - En el **Detalle cita** encontraremos nuestro DUI, la fecha de nuestra cita ya generada, la hora a la que tenemos que estar y el lugar donde nos tocara asistir para la vacunación contra el COVID-19.
 
-<p align="center">
-    <img src="imagenes/campo4.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo4.jpeg)
 
 - Una vez confirmemos que todo los datos que el sistema nos genero este bien, tenemos dos opciones las cuales son "**Aceptar**" y "**Generar PDF**"
 - Si damos en **Generar PDF** el programa automaticamente nos dira que se creo el PDF de la primera cita correctamente.
   
-  <p align="center">
-    <img src="imagenes/campo5.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo5.jpeg)
 
 - Si damos en **Aceptar** el programa nos llevara a otro apartado que seria nuestro "**Menu Principal**".
 ## **Menu Principal**
 - Al momento de entrar al **Menu Principal** nos dara la bienvenida al sistemas de vacunación COVID-19 , después encontraremos dos opciones las cuales son "**Seguimiento de cita**" y "**Nuevo Usuario**"
 
-<p align="center">
-    <img src="imagenes/campo3.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo3.jpeg)
   
   - Si optamos por darle en **Nuevo Usuario**, volveremos a repetir los procesos anteriores.
   - Si elegimos la opción "**Seguimiento de cita**" el programa nos enviara a otra ventana. 
@@ -150,15 +128,11 @@ Asi finalizamos el proceso de instalación.
 ## **Seguimiento de cita**
   - En **Seguimiento de cita** podremos llevar un mejor control para la segunda dosis de la vacunación contra el COVID-19. Para llevar acabo este proceso el gestor debe introducir el **DUI** de la persona que se desea buscar.
   
-  <p align="center">
-    <img src="imagenes/campo6.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo6.jpeg)
 
   - Una vez ingresado los datos correctamente, el gestor tiene que dar click en continuar proceso, para poder llevar a cabo la segunda dosis de la vacunación. Inmediatamente le aparecera un mensaje diciendo "**Desea continuar proceso de vacunación**" el gestor tiene que darle en "**Si**" si quiere seguir con el proceso o "**No**" si el gestor ya no quiere seguir con el proceso.
 
-<p align="center">
-    <img src="imagenes/campo7.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo7.jpeg)
 
 Cuando el gestor haya dado click en **Si** desea continuar con el proceso de vacunación, el sistema nos mostrara una ventana que se llama "**Datos Preliminares**"
 
@@ -171,20 +145,14 @@ Cuando el gestor haya dado click en **Si** desea continuar con el proceso de vac
   - **Hora de la vacunación.:** El gestor debe digitar la hora en que vacunaron a la persona.
   - **Minutos con efectos secundarios:** En este apartado hay que destacar que si la persona no presento efectos secundarios dentro de los 30 minutos, en el apartado tiene que poner 0 (cero) minutos para que no haya ningun inconveniente al momento de poder seguir con el proceso.
 
-<p align="center">
-    <img src="imagenes/campo8.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo8.jpeg)
 
   - Cuando se haya completado los campos que se han solicitado de la ventana, el gestor tiene que dar click en **Aceptar** y automaticamente nos aparecera un mensaje diciendo "**Proceso terminado exitosamente**" 
 
-<p align="center">
-    <img src="imagenes/campo9.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo9.jpeg)
 
 El gestor tiene la posibilidad de generar un PDF si el lo desea, el PDF lo puede descargar y contiene la información de los detalles de las 2 citas que tuvo durante el proceso de vacunación, es decir, la primera dosis y la segunda dosis.
 
-<p align="center">
-    <img src="imagenes/campo10.jpeg">
-</p>
+![alt text](https://github.com/UCASV/proyecto-final-grupo-6/blob/main/Manual/Imagenes/campo10.jpeg)
 
 Y con esto termina todo el proceso de nuestro sistema, recuerden seguir paso a paso para que no tengan ningun inconveniente. Y recuerden siempre tener en cuenta las medidas de bioseguridad.
